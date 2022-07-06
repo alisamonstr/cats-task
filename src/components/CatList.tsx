@@ -16,10 +16,9 @@ export const Wrapper = styled.div`
   width: 100%;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-gap: 30px;
-  padding: 0 20px;
+  padding: 0 20px 20px;
   @media (max-width: 600px) {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-
     grid-gap: 20px;
   }
 `
