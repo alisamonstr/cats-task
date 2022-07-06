@@ -1,0 +1,30 @@
+[{
+  "id": 1,
+  "name": "Tutti Frutti",
+  "gender": "male",
+  "birthDate": "2017-04-22",
+  "bio": "Fluffy boy with blue eyes",
+  "image": null
+},{
+  "id": 2,
+  "name": "Marcus",
+  "gender": "male",
+  "birthDate": "2012-05-25",
+  "bio": "Grey cat, doesn't like when you touch his belly",
+  "image": null
+},{
+  "id": 3,
+  "name": "Betty",
+  "gender": "female",
+  "birthDate": "2020-05-01",
+  "bio": "Ginger cat, likes chicken",
+  "image": null
+},{
+  "id": 4,
+  "name": "Muffin",
+  "gender": "female",
+  "birthDate": "2022-01-01",
+  "bio": "Young cat with wild energy",
+  "image": null
+}
+]
