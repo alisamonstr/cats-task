@@ -70,6 +70,7 @@ export const CatCard = ({ cat, openEditCat, openRemoveCat }: CatCardProps) => {
         <Avatar imageId={cat.id} />
         <InfoBox>
           <Name>{cat.name}</Name>
+          <div>Date of birth: {cat.birthDate}</div>
           {cat.bio}
         </InfoBox>
       </Content>
